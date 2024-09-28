@@ -2247,7 +2247,7 @@ input, select, textarea {
 /* Features */
 
 	#features header.style1 {
-		padding-bottom: 5em;
+		padding-bottom: 5px;
 	}
 
 	#features ul.actions {
@@ -2924,7 +2924,7 @@ input, select, textarea {
 		/* Features */
 
 			#features header.style1 {
-				padding-bottom: 4em;
+				padding-bottom: 5px;
 			}
 
 			#features ul.actions {
